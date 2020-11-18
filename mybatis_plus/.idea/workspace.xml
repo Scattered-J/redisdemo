@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be92f56f-dd91-46be-8df8-35d33ba70cb7" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/src/main/java/com/example/mybatisforxml/dao/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis/src/main/java/com/example/mybatisforxml/rdb/IUerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mybatis_plus/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mybatis_plus/hander/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mybatis_plus/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mybatis_plus/pojo/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/MybatisForXml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/MybatisForXml.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mybatis/src/main/java/com/example/mybatisforxml/dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_plus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_plus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mybatis_plus/MybatisPlusApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mybatis_plus/MybatisPlusApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/mybatis_plus/MybatisPlusApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/mybatis_plus/MybatisPlusApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../redis/redisdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redis/redisdemo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +39,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven\repository" />
         <option name="mavenHome" value="C:\Users\oliver.hu\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
@@ -39,13 +65,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MybatisPlusApplicationTests.testNoNull">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -57,6 +94,104 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisPlusApplicationTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="mybatis_plus" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatis_plus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatis_plus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatis_plus.MybatisPlusApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatis_plus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatis_plus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatis_plus.MybatisPlusApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusApplicationTests.testNoNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatis_plus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatis_plus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatis_plus.MybatisPlusApplicationTests" />
+      <option name="METHOD_NAME" value="testNoNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusApplicationTests.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatis_plus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatis_plus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatis_plus.MybatisPlusApplicationTests" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusApplicationTests.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatis_plus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatis_plus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatis_plus.MybatisPlusApplicationTests" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusApplicationTests.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mybatis_plus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.mybatis_plus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mybatis_plus.MybatisPlusApplicationTests" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mybatis_plus" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mybatis_plus.MybatisPlusApplication" />
@@ -64,6 +199,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.MybatisPlusApplicationTests" />
+      <item itemvalue="Spring Boot.MybatisPlusApplication" />
+      <item itemvalue="JUnit.MybatisPlusApplicationTests.testUpdate" />
+      <item itemvalue="JUnit.MybatisPlusApplicationTests.testSelect" />
+      <item itemvalue="JUnit.MybatisPlusApplicationTests.testPage" />
+      <item itemvalue="JUnit.MybatisPlusApplicationTests.testNoNull" />
+      <item itemvalue="JUnit.MybatisPlusApplicationTests.contextLoads" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisPlusApplicationTests.testNoNull" />
+        <item itemvalue="JUnit.MybatisPlusApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.MybatisPlusApplicationTests.testPage" />
+        <item itemvalue="JUnit.MybatisPlusApplicationTests.testUpdate" />
+        <item itemvalue="JUnit.MybatisPlusApplicationTests.testSelect" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,17 +226,129 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605511753620</updated>
-      <workItem from="1605511755728" duration="32000" />
+      <workItem from="1605511755728" duration="3923000" />
+      <workItem from="1605516748140" duration="447000" />
+      <workItem from="1605518689400" duration="371000" />
+      <workItem from="1605519399715" duration="15000" />
+      <workItem from="1605519441400" duration="1914000" />
+      <workItem from="1605521399838" duration="1014000" />
+      <workItem from="1605522459703" duration="19269000" />
     </task>
+    <task id="LOCAL-00001" summary="Mybatis_plus">
+      <created>1605511924574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605511924574</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mybatis_plus-1">
+      <created>1605511958369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605511958369</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mybatis_plus" />
+    <MESSAGE value="Mybatis_plus-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mybatis_plus-1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="164" key="SettingsEditor" timestamp="1605511787953">
+    <state x="586" y="198" key="#Inspections" timestamp="1605585223572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605511787953" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1605585223572" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605520859570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605520859570" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1605596909615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605596909615" />
+    <state x="681" y="343" key="#通知" timestamp="1605511850279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="343" key="#通知/0.0.1920.1040@0.0.1920.1040" timestamp="1605511850279" />
+    <state x="611" y="84" key="CommitChangelistDialog2" timestamp="1605511957195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="84" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605511957195" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605516765192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605516765192" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605665474220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605665474220" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1605605876462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605605876462" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1605522438077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605522438077" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605511886031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605511886031" />
+    <state x="415" y="256" width="1089" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605596313643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="256" width="1089" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1605596313643" />
+    <state x="334" y="180" key="new project wizard" timestamp="1605605589661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605605589661" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605596890935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605596890935" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
