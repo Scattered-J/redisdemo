@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/business-rdb/business-rdb.iml" filepath="$PROJECT_DIR$/business-rdb/business-rdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-service/business-service.iml" filepath="$PROJECT_DIR$/business-service/business-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/businessmanage.iml" filepath="$PROJECT_DIR$/businessmanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayservice/gatewayservice.iml" filepath="$PROJECT_DIR$/gatewayservice/gatewayservice.iml" />
     </modules>
   </component>
 </project>
