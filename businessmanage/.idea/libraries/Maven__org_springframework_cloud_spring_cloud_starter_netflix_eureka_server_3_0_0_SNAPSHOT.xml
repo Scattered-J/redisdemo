@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.0.0-SNAPSHOT/spring-cloud-starter-netflix-eureka-server-3.0.0-20201118.020157-1825.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.0.0-SNAPSHOT/spring-cloud-starter-netflix-eureka-server-3.0.0-20201118.020157-1825-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.0.0-SNAPSHOT/spring-cloud-starter-netflix-eureka-server-3.0.0-20201118.020157-1825-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
