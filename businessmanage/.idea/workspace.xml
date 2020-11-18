@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d318ff08-4a78-40aa-94c7-a8d298d2a08a" name="Default Changelist" comment="business test1">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/businessmanage/BusinessmanageApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/businessmanage/BusinessmanageApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_plus/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_plus/target/classes/com/example/mybatis_plus/MybatisPlusApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_plus/target/classes/com/example/mybatis_plus/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_plus/target/classes/com/example/mybatis_plus/hander/MyMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_plus/target/classes/com/example/mybatis_plus/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_plus/target/classes/com/example/mybatis_plus/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_plus/target/test-classes/com/example/mybatis_plus/MybatisPlusApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:\idea\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kRa8meOzi60XBgvQGqzyyP9uSd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessmanageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="businessmanage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.businessmanage.BusinessmanageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d318ff08-4a78-40aa-94c7-a8d298d2a08a" name="Default Changelist" comment="" />
+      <created>1605665700982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605665700982</updated>
+      <workItem from="1605665703894" duration="295000" />
+    </task>
+    <task id="LOCAL-00001" summary="business">
+      <created>1605665859889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605665859889</updated>
+    </task>
+    <task id="LOCAL-00002" summary="business">
+      <created>1605665910750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605665910750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="business" />
+    <option name="LAST_COMMIT_MESSAGE" value="business" />
+  </component>
+</project>
